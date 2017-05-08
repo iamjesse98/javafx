@@ -33,5 +33,3 @@ public class BasicButtonEvent extends Application implements EventHandler<Action
 		if( event.getSource() == button ) System.out.println("Hello");
 	}
 }
-
-//C:\Program Files\Java\jdk1.8.0_121\bin
